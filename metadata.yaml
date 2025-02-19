@@ -1,0 +1,48 @@
+_repo: Historias-das-Ilhas-b-Reminiscencias-dos-Acores-e-da-Madeira_75220
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herminio, Celso
+    birthdate: 1871
+    deathdate: 1904
+    gutenberg_agent_id: '57887'
+    url: http://www.gutenberg.org/2009/agents/57887
+    wikipedia: https://pt.wikipedia.org/wiki/Celso_Herm%C3%ADnio
+creator:
+  author:
+    agent_name: Azevedo, Maximiliano de
+    aliases:
+    - Magalhães, Alberto de
+    - Magalhaes, Alberto de
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '31174'
+    url: http://www.gutenberg.org/2009/agents/31174
+    wikipedia: https://pt.wikipedia.org/wiki/Maximiliano_Eug%C3%A9nio_de_Azevedo
+description: ''
+gutenberg_issued: '2025-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75220'
+language: pt
+pgterms:marc905: 20080510192207azevedo
+pgterms:marc906: '1899'
+pgterms:marc907: pt
+production_note: Pedro Saborano, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aLISBOA :$bParceria Antonio Maria Pereira, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcsh 'Short stories, Portuguese'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: O casamento do veterano -- Os filhos do frade -- O primeiro desengano
+  -- A Alegria do Mar -- A lampreia -- Mau homem -- A licença do domingo -- O contrabando
+  -- Piloto -- Na vindima -- O jantar do general -- O aprendiz de barbeiro -- A allemã
+  -- O marraxo -- O pae do Jacintho -- A folga -- O paiol -- As feiticeiras -- Mary.
+title: 'Historias das Ilhas : $b (Reminiscencias dos Açores e da Madeira)'
+url: http://www.gutenberg.org/ebooks/75220
